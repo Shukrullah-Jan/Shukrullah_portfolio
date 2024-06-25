@@ -15,23 +15,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>UI, Dashboard and Form design with material design libraries.</p>
+              <p>UI, Dashboard, and Form Design: Expertise in designing user interfaces, dashboards, and forms using Material Design libraries.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Building and packaging user friendly and fully responsive applications.</p>
+              <p>Application Development: Specializing in the development and packaging of user-friendly, fully responsive applications.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Building efficient and fully optimised desktop apps using best algorithms.</p>
+              <p>Desktop Application Optimization: Building efficient and highly optimized desktop applications utilizing the best algorithms.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Have a set of pre built softwares however, will create any applications according to client requirements.</p>
+              <p>Custom Software Solutions: Providing a range of pre-built software solutions and creating tailored applications to meet specific client requirements.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Any sofware built have a fully backup system for data.</p>
+              <p>Data Backup Systems: Ensuring all software developed includes a comprehensive data backup system.</p>
             </li>
           </ul>
         </article>
@@ -43,23 +43,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Building and Deploying any kind of e-commerce websites from scratch.</p>
+              <p>E-commerce Development: Building and deploying a wide range of e-commerce websites from scratch.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Building user friendly and fully responsive web apps.</p>
+              <p>Web Application Development: Creating user-friendly and fully responsive web applications.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Have a set of templates however will create any websites according to client preferences.</p>
+              <p>Custom Website Design: Offering a variety of templates while also creating websites tailored to client preferences.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Management, Debugging, Code optimization and rebuilding old websites. </p>
+              <p>Website Management and Optimization: Providing services for the management, debugging, code optimization, and rebuilding of old websites. </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Advertise using google Ads.</p>
+              <p>Digital Advertising.</p>
             </li>
           </ul>
         </article>
@@ -71,15 +71,15 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Instructing with best materials and building real life projects.</p>
+              <p>Educational Instruction: Providing high-quality instructional materials and building real-life projects.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Involving students in projects and giving plenty of quizzes weekly to work on.</p>
+              <p>Student Engagement: Involving students in hands-on projects and administering weekly quizzes.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Writing blog posts, updating contents, and running websites for clients.</p>
+              <p>Content Creation and Website Management: Writing blog posts, updating content, and managing websites for clients.</p>
             </li>
           </ul>
         </article>
