@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.a0d33463.css",
-    "main.js": "/static/js/main.1b0d9545.js",
-    "static/media/me_brush_effect6.png": "/static/media/me_brush_effect6.bfd048cbc2dd124a9513.png",
-    "static/media/me_brush_effect3.png": "/static/media/me_brush_effect3.be727074cce0ca059143.png",
+    "main.js": "/static/js/main.77c66a3b.js",
+    "static/media/me_brush_effect3.png": "/static/media/me_brush_effect3.0c5e4c85542612879c92.png",
+    "static/media/me_brush_effect6.png": "/static/media/me_brush_effect6.7818c6c9fb9569d34d16.png",
     "static/media/food_inventory.jpg": "/static/media/food_inventory.bd6d3dbd57545219adba.jpg",
-    "static/media/myCV.pdf": "/static/media/myCV.1d9be0de5bab271a3188.pdf",
+    "static/media/myCV.pdf": "/static/media/myCV.887044134099b8352a57.pdf",
     "static/media/amjadAli.jpg": "/static/media/amjadAli.8e9bc99bf508115e8e66.jpg",
     "static/media/flexible_dashboard.jpg": "/static/media/flexible_dashboard.65e5f458565fe8f7eb65.jpg",
     "static/media/mini_web.jpg": "/static/media/mini_web.7982563d0eabb1c4dcce.jpg",
+    "static/media/e_commerce.png": "/static/media/e_commerce.914dd227b2a136801e28.png",
     "static/media/notepad.PNG": "/static/media/notepad.59fe06b3380099e86c0e.PNG",
     "static/media/tics_system.PNG": "/static/media/tics_system.46bcc6ef81ee9c387c35.PNG",
     "static/media/chamanAliAfzali.jpg": "/static/media/chamanAliAfzali.06008d0512f7d397860c.jpg",
@@ -17,10 +18,10 @@
     "static/media/gym_system.PNG": "/static/media/gym_system.49dd56514fbc99d3323c.PNG",
     "index.html": "/index.html",
     "main.a0d33463.css.map": "/static/css/main.a0d33463.css.map",
-    "main.1b0d9545.js.map": "/static/js/main.1b0d9545.js.map"
+    "main.77c66a3b.js.map": "/static/js/main.77c66a3b.js.map"
   },
   "entrypoints": [
     "static/css/main.a0d33463.css",
-    "static/js/main.1b0d9545.js"
+    "static/js/main.77c66a3b.js"
   ]
 }
