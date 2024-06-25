@@ -11,22 +11,22 @@ const data = [
   {
     avatar: AVT1,
     name: "Amjad, Ali",
-    review: "Director of Talent ICS. Graphic, Logo designer specialist and instructor, teaching in variety of fields of CS. "
+    review: "Director of Talent at ICS. Specializing in graphic and logo design, and instructing across various fields of computer science."
   },
   {
     avatar: AVT2,
     name: "Paiman, Amini",
-    review: "Frontend developer specialist and social activist. Interested in poetry and photography."
+    review: "Frontend Developer Specialist and social activist with interests in poetry and photography."
   },
   {
     avatar: AVT3,
     name: "Fareed",
-    review: "Inquisitive and hard working instructor and social activist, teaching in different fields of CS."
+    review: "Inquisitive and dedicated instructor and social activist, teaching across various fields of computer science."
   },
   {
     avatar: AVT4,
-    name: "Chaman, Ali",
-    review: "CS specialist, Programmer and web designer. Tutoring in variety of fields of computer science."
+    name: "Chaman Ali",
+    review: "Computer Science specialist, programmer, and web designer, providing tutoring across various fields of computer science."
   },
 ]
 

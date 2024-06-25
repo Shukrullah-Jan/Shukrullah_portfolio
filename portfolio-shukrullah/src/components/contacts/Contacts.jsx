@@ -17,6 +17,7 @@ const Contacts = () => {
         emailjs.sendForm('service_bgb3li1', 'template_vye0qfv', form.current, '-mpO1yvtOTUx_RDvc')
             .then((result) => {
                 console.log(result.text);
+                window.alert("Message Sent")
             }, (error) => {
                 console.log(error.text);
             });
@@ -35,8 +36,8 @@ const Contacts = () => {
                     <article className='contact__option'>
                         <MdOutlineEmail className='contact__option-icon' />
                         <h4>Email</h4>
-                        <h5 className='contact__option-email'>Almehdipco6766@gmail.com</h5>
-                        <a href="mailto:almehdipco6766@gmail.com" target="_blank">Send a message</a>
+                        <h5 className='contact__option-email'>shukrullahaskari9@gmail.com</h5>
+                        <a href="mailto:shukrullahaskari9@gmail.com" target="_blank">Send a message</a>
                     </article>
                     <article className='contact__option'>
                         <RiMessengerLine className='contact__option-icon' />
@@ -47,9 +48,9 @@ const Contacts = () => {
                     <article className='contact__option'>
                         <BsWhatsapp className='contact__option-icon' />
                         <h4>Whatsapp</h4>
-                        <h5>+923362073245</h5>
+                        <h5>+1 206 588 3104</h5>
                         {/* <a href="https://api.whatsapp.com/send?phone=00923362073245" target="_blank">Send a message</a> */}
-                        <a href="https://wa.me/923362073245" target="_blank">Send a message</a>
+                        <a href="https://wa.me/12065883104" target="_blank">Send a message</a>
                     </article>
                 </div>
                 {/* End of Contact Option */}

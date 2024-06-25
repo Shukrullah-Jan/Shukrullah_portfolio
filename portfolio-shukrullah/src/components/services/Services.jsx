@@ -15,10 +15,6 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>UI, Dashboard, and Form Design: Expertise in designing user interfaces, dashboards, and forms using Material Design libraries.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
               <p>Application Development: Specializing in the development and packaging of user-friendly, fully responsive applications.</p>
             </li>
             <li>

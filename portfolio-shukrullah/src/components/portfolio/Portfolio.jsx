@@ -2,6 +2,7 @@
 import React from 'react'
 import './portfolio.css'
 import flexibleDashboard from '../../assets/portfolio/flexible_dashboard.jpg'
+import eCommerce from '../../assets/portfolio/e_commerce.png'
 import talentSystem from '../../assets/portfolio/tics_system.PNG'
 import notepad from '../../assets/portfolio/notepad.PNG'
 import gymSystem from '../../assets/portfolio/gym_system.PNG'
@@ -20,34 +21,41 @@ const data = [
   },
   {
     id: 2,
+    image: eCommerce,
+    title: "E-Commerce (JS, ReactJS, Redux)",
+    github: 'https://github.com/Shukrullah-Jan/ecommerce-website',
+    demo: "https://nurband-ecommerce-website.netlify.app"
+  },
+  {
+    id: 3,
     image: miniWeb,
     title: "Mini Web Projects (HTML, CSS, JS)",
     github: 'https://github.com/Shukrullah-Jan/Mini-Web-projects',
     demo: "https://mini-web-projects.netlify.app/"
   },
   {
-    id: 3,
+    id: 4,
     image: talentSystem,
     title: "Computer Lab Management System (C#, .Net)",
     github: 'https://github.com/Shukrullah-Jan/Talent-Addmission-System',
     demo: "https://www.youtube.com/watch?v=3sm4bXrkyAs"
   },
   {
-    id: 4,
+    id: 5,
     image: foodInventory,
     title: "Food Inventory App (C#, .Net, Access DB)",
     github: 'https://github.com/Shukrullah-Jan/Food-Inventory',
     demo: "https://www.youtube.com/watch?v=Sg4Qbawnf2Q"
   },
   {
-    id: 5,
+    id: 6,
     image: notepad,
     title: "Notepad+ (C#, Winforms)",
     github: 'https://github.com/Shukrullah-Jan/Notepad',
     demo: "https://dribbble.com/shots/18469955-Notepad"
   },
   {
-    id: 6,
+    id: 7,
     image: gymSystem,
     title: "Gym Management System (C#, .Net, Access DB)",
     github: 'https://github.com/Shukrullah-Jan/Gym-Management-System',
